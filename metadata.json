@@ -1,0 +1,6 @@
+{
+  "name": "Cooper",
+  "description": "Cooper, your loyal budget guard dog. Offline-first personal budget tracker with honest numbers, interactive pace charts, and friendly guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
